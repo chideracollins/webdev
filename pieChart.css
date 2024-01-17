@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(216, 104, 12);
+}
+body > h1 {
+    text-align: center;
+    margin: 4rem;
+}
+body > div {
+    background-color: rgb(145, 145, 236);
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    margin: auto;
+}
+#c1 {
+    height: 50%;
+    background-color: rgb(117, 196, 85);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+#c2 {
+    height: 50%;
+    background-color: brown;
+    border-right: antiquewhite;
+    transform: skewX(45deg);
+    margin: 4em;
+    padding-top: 7em;
+}

@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+header {
+    text-align: center;
+    border-style: solid;
+    border-color: silver;
+    background-color: darkslategray;
+    color: antiquewhite;
+}
+div {
+    background-color: blanchedalmond;
+    padding: 60px;
+}
+img {
+    width: 70px;
+    height: 70px;
+    margin: 1em;
+    border-radius: 50%;
+}
+h4{
+    margin-left: 100px;
+    margin-top: -80px;
+    margin-bottom: 0;
+}
+p {
+    margin-left: 100px;
+    margin-top: -;
+}
